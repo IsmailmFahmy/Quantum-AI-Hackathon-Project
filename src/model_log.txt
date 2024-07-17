@@ -1,0 +1,47 @@
+------
+Quantum VQC on the test dataset:  0.56 	 Quantum VQC on the training dataset: 0.57 
+ time taken = 67.20917201042175
+ num_features = 5 
+ optimizer = <qiskit_algorithms.optimizers.spsa.SPSA object at 0x7020d2587800> 
+ entanglement = full 
+ fraction of data used = 0.1
+
+Quantum VQC on the training dataset: 0.63
+Quantum VQC on the test dataset:     0.66
+time taken = 570.952650308609
+
+
+Quantum VQC on the training dataset: 0.63
+Quantum VQC on the test dataset:     0.65
+time taken = 351.502400636673
+
+
+Quantum VQC on the training dataset: 0.64
+Quantum VQC on the test dataset:     0.65
+time taken = 323.4317011833191
+
+
+Quantum VQC on the training dataset: 0.64
+Quantum VQC on the test dataset:     0.61
+time taken = 320.44246339797974
+
+
+Quantum VQC on the training dataset: 0.64
+Quantum VQC on the test dataset:     0.62
+time taken = 325.18087124824524
+
+
+Quantum VQC on the training dataset: 0.62
+Quantum VQC on the test dataset:     0.66
+time taken = 484.30173921585083
+
+
+Quantum VQC on the training dataset: 0.64
+Quantum VQC on the test dataset:     0.64
+time taken = 1207.6138472557068
+
+
+Quantum VQC on the training dataset: 0.64
+Quantum VQC on the test dataset:     0.64
+time taken = 1200.0438718795776
+
